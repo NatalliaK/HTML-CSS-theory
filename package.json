@@ -1,0 +1,23 @@
+{
+  "name": "html-css-theory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalliaK/HTML-CSS-theory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalliaK/HTML-CSS-theory/issues"
+  },
+  "homepage": "https://github.com/NatalliaK/HTML-CSS-theory#readme",
+  "dependencies": {
+    "reveal.js": "^5.0.4"
+  }
+}
